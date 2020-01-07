@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578430021 source:c:\users\algoritmos\desktop\nueva carpeta\camiones\búsqueda_secuencial\main.cpp
+	<iostream>
+	<fstream>
+
