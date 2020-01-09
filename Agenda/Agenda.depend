@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578417701 source:c:\users\ismael\desktop\algoritmoscode\agenda\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+
